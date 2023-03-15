@@ -3,3 +3,38 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "doBy"]
+	path = doBy
+	url = https://github.com/hojsgaard/doby
+	shallow = true
+	registered = true
+[submodule "geepack"]
+	path = geepack
+	url = https://github.com/hojsgaard/geepack
+	shallow = true
+	registered = true
+[submodule "gRain"]
+	path = gRain
+	url = https://github.com/hojsgaard/grain
+	shallow = true
+	registered = true
+[submodule "gRbase"]
+	path = gRbase
+	url = https://github.com/hojsgaard/grbase
+	shallow = true
+	registered = true
+[submodule "gRc"]
+	path = gRc
+	url = https://github.com/hojsgaard/grc
+	shallow = true
+	registered = true
+[submodule "gRim"]
+	path = gRim
+	url = https://github.com/hojsgaard/grim
+	shallow = true
+	registered = true
+[submodule "pbkrtest"]
+	path = pbkrtest
+	url = https://github.com/hojsgaard/pbkrtest
+	shallow = true
+	registered = true
