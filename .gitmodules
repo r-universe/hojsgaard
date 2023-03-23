@@ -8,6 +8,11 @@
 	url = https://github.com/hojsgaard/doby
 	shallow = true
 	registered = true
+[submodule "geeasy"]
+	path = geeasy
+	url = https://github.com/cran/geeasy
+	shallow = true
+	registered = true
 [submodule "geepack"]
 	path = geepack
 	url = https://github.com/hojsgaard/geepack
