@@ -5,12 +5,6 @@
 [submodule "doBy"]
 	path = doBy
 	url = https://github.com/hojsgaard/doby
-[submodule "geeasy"]
-	path = geeasy
-	url = https://github.com/cran/geeasy
-[submodule "geepack"]
-	path = geepack
-	url = https://github.com/hojsgaard/geepack
 [submodule "gRain"]
 	path = gRain
 	url = https://github.com/hojsgaard/grain
@@ -23,6 +17,12 @@
 [submodule "gRim"]
 	path = gRim
 	url = https://github.com/hojsgaard/grim
+[submodule "geeasy"]
+	path = geeasy
+	url = https://github.com/cran/geeasy
+[submodule "geepack"]
+	path = geepack
+	url = https://github.com/hojsgaard/geepack
 [submodule "pbkrtest"]
 	path = pbkrtest
 	url = https://github.com/hojsgaard/pbkrtest
