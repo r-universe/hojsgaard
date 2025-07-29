@@ -25,4 +25,4 @@
 	url = https://github.com/hojsgaard/geepack
 [submodule "pbkrtest"]
 	path = pbkrtest
-	url = https://github.com/cran/pbkrtest
+	url = https://github.com/hojsgaard/pbkrtest
